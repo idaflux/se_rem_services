@@ -1,0 +1,8 @@
+[
+    {
+        "Name": "Example",
+        "Description": "Example Description",
+        "Version":"1.0",
+        "RemoteUrl": "https://raw.githubusercontent.com/idaflux/se_rem_services/main/example.cs"
+    }
+]
