@@ -2,6 +2,7 @@
     {
         "Name": "Example",
         "Description": "Example Description",
+        "Icon": "emoji-smile",
         "Version":"1.0",
         "RemoteUrl": "https://raw.githubusercontent.com/idaflux/se_rem_services/main/example/example.cs",
         "RemotePage": "https://raw.githubusercontent.com/idaflux/se_rem_services/main/example/example.html",
